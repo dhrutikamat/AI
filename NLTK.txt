@@ -1,4 +1,4 @@
-#Write a program for the Information Retrieval System using appropriate NLP tools (such as
+Write a program for the Information Retrieval System using appropriate NLP tools (such as
 #NLTK, Open NLP, …)
 #a. Text tokenization
 #b. Count word frequency
